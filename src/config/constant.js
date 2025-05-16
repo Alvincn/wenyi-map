@@ -1,4 +1,4 @@
-export const KEY = '797033d3de3f6d6d49b240e22694321a'
+export const KEY = ''
 
 export const HERITAGE_TYPE = [
   {
